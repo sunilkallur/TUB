@@ -1,0 +1,18 @@
+##############################################################################
+## Filename:          /home/sunil/Documents/AEP_Projects/AEP_SIMD/pcores/mycore_v1_00_a/data/mycore_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Sun Jun 22 00:13:54 2014 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib mycore_v1_00_a approximate_mul_pkg vhdl
+lib mycore_v1_00_a Reg11bits vhdl 
+lib mycore_v1_00_a mux_2_1 vhdl
+lib mycore_v1_00_a barrel_shifting vhdl
+lib mycore_v1_00_a anti_log vhdl
+lib mycore_v1_00_a priority_encoder vhdl
+lib mycore_v1_00_a decompisition vhdl
+lib mycore_v1_00_a approximate_multiplier vhdl
+lib mycore_v1_00_a user_logic vhdl
+lib mycore_v1_00_a mycore vhdl
